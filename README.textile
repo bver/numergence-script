@@ -1,0 +1,11 @@
+h1. Numergence client script
+
+Copyright (c) 2013 Pavel Suchmann, please see the LICENSE file.
+
+Numergence is a simple analytic tool: a gadget to extend the spreadsheet. It aids understanding of numeric data by automatically creating a spreadsheet formula. This formula can be used to predict output data by processing previously unseen input data.
+
+h2. Installation
+
+Please "follow instructions":http://numergence.com/guide.html on the Numergence site.
+
+
